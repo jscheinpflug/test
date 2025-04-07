@@ -40,8 +40,8 @@ Cell[BoxData["8"], "Output",
  CellLabel->"Out[3]=",ExpressionUUID->"349a95a4-0b82-40d2-92ca-4d707f68d9e4"]
 }, Open  ]]
 },
-WindowSize->{619.5, 774.75},
-WindowMargins->{{Automatic, 23.25}, {7.5, Automatic}},
+WindowSize->{1390.5, 774.75},
+WindowMargins->{{22.5, Automatic}, {7.5, Automatic}},
 FrontEndVersion->"14.1 for Linux x86 (64-bit) (July 16, 2024)",
 StyleDefinitions->"Default.nb",
 ExpressionUUID->"fb93cef4-3161-4cf4-8c0f-d197328caba1"
