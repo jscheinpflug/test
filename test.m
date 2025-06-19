@@ -19,6 +19,3 @@ End[];
 
 
 EndPackage[];
-
-
-\[AliasDelimiter]
